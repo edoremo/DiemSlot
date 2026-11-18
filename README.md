@@ -1,14 +1,14 @@
-#DIEMSlot
+# DIEMSlot
 
 Applicazione Desktop realizzata in Java per la gestione delle **aule, dei docenti e delle prenotazioni** di un dipartimento universitario.
 
 Progetto sviluppato per il corso di **Ingegneria del Software** (corso di laurea in Ingegneria Informatica, DIEM - Universitá di Salerno, 2026/2027)
 
-##Introduzione
+## Introduzione
 DIEMSlot nasce per sostituire la gestione manuale delle prenotazioni delle aule del dipartimento. Il sistema é utilizzato dall'**addetto di segreteria**, unico attore del sistema, il quale gestisce e consulta le prenotazioni per conto dei docenti.
 I docenti sono entitá gestite dal sistema (non utenti che vi accedono) e non é previsto al momento un sistema di autenticazione.
 
-##Funzionalitá Principali:
+## Funzionalitá Principali:
 - **Aule:** inserimento, modifica, cancellazione, visualizzazione e ricerca;
 - **Docenti:** inserimento, modifica, cancellazione, visualizzazione (ordinata) e ricerca;
 - **Disponibilitá:** ricerca delle aule libere secondo una fascia temporale (oraria, data);
