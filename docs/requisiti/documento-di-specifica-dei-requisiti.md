@@ -1,3 +1,4 @@
-g
-prova
-ciaoddo
+DESCRIZIONE DELL'APPLICAZIONE:
+1.1 Scopo: DiemSlot è un'applicazione che ha lo scopo di gestire l'anagrafica dei docenti, le aule di un dipartimento universitario e le relative prenotazioni. Il sistema permette di pianificare attività didattiche ed extra-didattiche garantendo l'assenza di conflitti di orario.
+1.2 Attori coinvolti: Non ci sono ruoli con permessi differenziati ma un unico profilo operativo che interagisce con l'interfaccia grafica: Operatore di Segreteria[Attore primario]:L'utente che utilizza l'interfaccia grafica per gestire aule e docenti, verificare le disponibilità e registrare o annullare prenotazioni.
+2 Requisiti funzionali:
