@@ -9,3 +9,10 @@ RF-03(Modifica aula):Il sistema deve consentire la modifica dei dati di un'aula 
 RF-04(Cancellazione aula):Il sistema deve permettere di eliminare un'aula dall'archivio.
 RF-05(Visualizzazione aule):Il sistema deve mostrare la lista completa delle aule registrate.
 RF-06(Ricerca aula):Il sistema deve consentire di cercare un'aula per nome, codice identificativo o capienza.
+2.2 Gestione dei docenti:
+RF-07(Inserimento docenti):Il sistema deve permettere di registrare un nuovo docente inserendo email istituzionale univoca, nome e cognome.
+RF-08(Univocità email docente):Il sistema deve impedire la registrazione di un nuovo docente se l'email istituzionale è gia presente in archivio.
+RF-09(Modifica docente):Il sistema deve consentire di modificare i dati di un docente già presente nell'archivio.
+RF-10(Cancellazione docente):Il sistema deve permettere di rimuovere un docente dall'archivio.
+RF-11(Visualizzazione docenti):Il sistema deve mostrare l'elenco dei docenti presenti nell'archivio ordinato alfabeticamente per cognome e nome.
+RF-12(Ricerca docente):Il sistema deve permettere di cercare un docente per cognome o per email istituzionale.
