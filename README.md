@@ -20,7 +20,7 @@ I docenti sono entitá gestite dal sistema (non utenti che vi accedono) e non é
 
 
 ## Tecnologie
-| Ambito | Strumento |
+|  | Strumento |
 |---|---|
 | Linguaggio | Java 1.8 |
 | Interfaccia grafica | JavaFX |
