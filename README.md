@@ -38,10 +38,10 @@ I docenti sono entitá gestite dal sistema (non utenti che vi accedono) e non é
 ## Team di lavoro
 | Nome e cognome | GitHub |
 |---|---|
-| [Edoardo Remo Fabiano] | [@edoremo] |
-| [Antonio Ferrentino] | [@Antoferre917] |
-| [Karol De Maio] | [@karoldemaio] |
-| [Giovanni Furno] | [@giof05] |
+| Edoardo Remo Fabiano | @edoremo |
+| Antonio Ferrentino | @Antoferre917 |
+| Karol De Maio | @karoldemaio |
+| Giovanni Furno | @giof05 |
 
 
 //da aggiungere info di build, compilazione e doxygen
